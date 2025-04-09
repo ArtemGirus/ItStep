@@ -1,1 +1,1 @@
-data = 'text in file2/folder3'
+data = 'text in file2, folder3'
