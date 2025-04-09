@@ -1,0 +1,1 @@
+data = 'text in folder1'
